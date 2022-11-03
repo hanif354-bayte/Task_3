@@ -1,2 +1,5 @@
 # Task_3
 DOM Manipulation
+Hanif Putra Agusta
+120140120
+TUGAS INDIVIDU 3 PEMROGRAMAN WEB
